@@ -29,15 +29,22 @@ Step 2: Install Dependencies
 Install the necessary dependencies using npm:
 npm install
 
+
+
 Step 3: Run the Application
 To run both the development server and the JSON Server API simultaneously, use the following command:
 npm run dev
 This command runs the react-scripts start to launch the React app and json-server to simulate a backend on port 5000.
+
+
+
 Step 4: Access the Application
 Once the development server is running, you can access the app at:
 http://localhost:5173
 And the mock API server will be running at:
 http://localhost:5000
+
+
 
 Step 5: Editing and Deleting Posts
 Editing Posts: When viewing a post's details, click the title to open the modal. You can update the content of the post and submit the changes, which will reflect on the app.
