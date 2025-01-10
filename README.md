@@ -14,6 +14,10 @@ JSON Server: A fake REST API server to simulate a real backend with db.json as t
 Ant Design: For UI components, specifically the modal for editing post details.
 Vite: For fast and optimized development and build environment.
 Project Setup
+
+
+
+
 Step 1: Clone the Repository
 Clone the repository to your local machine using the following command:
 
